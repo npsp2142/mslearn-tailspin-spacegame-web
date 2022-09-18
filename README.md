@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/npsp2142/shiroCodeWorkflow/_apis/build/status/npsp2142.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/npsp2142/shiroCodeWorkflow/_build/latest?definitionId=2&branchName=main)
+[![.NET](https://github.com/npsp2142/mslearn-tailspin-spacegame-web/actions/workflows/dotnet.yml/badge.svg)](https://github.com/npsp2142/mslearn-tailspin-spacegame-web/actions/workflows/dotnet.yml)
 
 # Contributing
 
